@@ -22,8 +22,6 @@ AOM.axes_figure([40,100,20,8,45,95,80,0,10], 'test')
 (see test.jpeg for output)
 
 """
-
-import matplotlib.pyplot as plt
 from PIL import Image
 import numpy as np
 import cv2
