@@ -1,5 +1,7 @@
 # Axes-of-Merit
-Code related to the 9 Axes of Merit for Technosignatures (Sheikh 2019, in prep)
+Code related to the 9 Axes of Merit for Technosignatures
+
+If you use this code in your work, please cite "Nine Axes of Merit for Technosignature Searches" (Sheikh 2019, in prep)
 
 Documentation for the axes_figure figure creation function (from AOM.py) shown below:
 
@@ -20,3 +22,5 @@ Usage Example:
 import AOM  
 AOM.axes_figure([40,100,20,8,45,95,80,0,10], 'test')   
 (see test.jpeg for output)
+
+
