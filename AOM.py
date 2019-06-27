@@ -40,7 +40,7 @@ def axes_figure(axes_array, filename):
     diff_pix = max_pix - min_pix
     start_pos_2_array = [160, 300, 440, 605, 760, 910, 1055, 1225, 1365]
     for i in range(0, len(axes_array)):
-        normalized = axes_array[i] / 100
+        normalized = axes_array[i] / 100.0
         start_pos = int(diff_pix * normalized + min_pix)
         end_pos = start_pos + 25
         start_pos_2 = start_pos_2_array[i]
