@@ -12,7 +12,7 @@ Creates a figure that shows the Nine Axes of Merit for Technosignatures with use
 
 # Assumptions:
 - AOM.py and axes_of_merit_base.jpeg are in the directory you're running the code from
-- You have installed the opencv and PIL packages
+- You have installed the numpy, opencv, and PIL packages
 
 #Usage Example:
 
