@@ -16,7 +16,7 @@ Outputs:
 Assumptions:
 - AOM.py and axes_of_merit_base.jpeg are in the directory you're running the code from
 
-Usage Example:
-import AOM
-AOM.axes_figure([40,100,20,8,45,95,80,0,10], 'test')
+Usage Example:  
+import AOM  
+AOM.axes_figure([40,100,20,8,45,95,80,0,10], 'test')   
 (see test.jpeg for output)
